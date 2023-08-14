@@ -1,0 +1,41 @@
+Biases:
+
+CNN: Convolutional neural network.
+
+Densely connected:
+
+Epoch:
+
+Features: Dimensions of data
+
+Gradient descent: Describes the rate of learning.
+
+Hidden layers:
+
+Hyperparameter:
+
+Input layer:
+
+LSTM: Long short-term memory.
+
+m: The size of the training data set
+
+Neuron:
+
+NLP: Natural language processing
+
+NN: Neural network.
+
+Optimization:
+
+Regularization:
+
+RelU: Rectified linear units.
+
+RNN: Recurrent neural network.
+
+Sigmoid: Function characterized by a flat gradient on the left and right of it's graph.
+
+Tuning:
+
+Weights: 

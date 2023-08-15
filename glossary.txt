@@ -1,4 +1,10 @@
+Backward propogation:
+
 Biases:
+
+Binary classification: An algorithm that returns 0 or 1 provided with given input x.
+
+Cost function: Quantifies, for parameters, the average of the sum of loss functions.
 
 CNN: Convolutional neural network.
 
@@ -7,6 +13,8 @@ Densely connected:
 Epoch:
 
 Features: Dimensions of data
+
+Forward propogation:
 
 Gradient descent: Describes the rate of learning.
 
@@ -17,6 +25,10 @@ Hyperparameter:
 Input layer:
 
 LSTM: Long short-term memory.
+
+Logistic regression: An algorithm for binary classification.
+
+Loss function: Quantifies, for a single training example, the difference between the estimate and actual result.
 
 m: The size of the training data set
 

@@ -1,5 +1,7 @@
 Alignment:
 
+Backward function:
+
 Backward propogation:
 
 Biases:
@@ -12,11 +14,17 @@ CNN: Convolutional neural network.
 
 Densely connected:
 
+Derivative: The derivative of a function, also referred to as the function's slope, defines the rate of change in the function's output at a given function input.
+
 Epoch:
 
 Features: Dimensions of data
 
+Forward function:
+
 Forward propogation:
+
+Global optimum:
 
 Gradient descent: Describes the rate of learning.
 

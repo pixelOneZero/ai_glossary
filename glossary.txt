@@ -18,6 +18,8 @@ Derivative: The derivative of a function, also referred to as the function's slo
 
 Epoch:
 
+Feature space:
+
 Features: Dimensions of data
 
 Forward function:
@@ -33,6 +35,8 @@ Hidden layers:
 Hyperparameter:
 
 Input layer:
+
+Kernel: A function that computes the dot product of the transformed versions of its arguments. A kernel transforms the data into a higher-dimensional space where it becomes linearly separable or, more generally, where the transformed data has a structure that is more receptive to learning.
 
 LSTM: Long short-term memory.
 
@@ -61,6 +65,8 @@ RNN: Recurrent neural network.
 Self-organizing map (SOM): A neural network trained using unsupervised learning to create a typically two-dimensional map of the supplied inputs. SOM is particularly effective for data with a large number of dimensions.
 
 Sigmoid: Function characterized by a flat gradient on the left and right of it's graph.
+
+Support Vector Machine (SVM):
 
 Tensor:
 

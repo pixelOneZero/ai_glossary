@@ -1,5 +1,9 @@
 Alignment:
 
+Attention network:
+
+Artificial General Intelligence (AGI):
+
 Backward function:
 
 Backward propogation:
@@ -7,6 +11,8 @@ Backward propogation:
 Biases:
 
 Binary classification: An algorithm that returns 0 or 1 provided with given input x.
+
+Control theory:
 
 Cost function: Quantifies, for parameters, the average of the sum of loss functions.
 
@@ -52,13 +58,15 @@ NLP: Natural language processing
 
 NN: Neural network.
 
-Notebook: An online workspace where programming languages are pre-installed and can be run. Originally created for data science, but has grown in popularity.
+Notebook: An online workspace where programming languages and libraries are pre-installed and can be run as applications. Originally created for data science, but has grown in popularity. Notebooks offer the advantage of offloading memory and dependency (languages, dependencies, etc.) demands to the web, rather than one's personal computer.
 
 Optimization:
 
 Perceptron: See glossary.md
 
 Regularization:
+
+Reinforcement Learning:
 
 RelU: Rectified linear units.
 
@@ -68,9 +76,13 @@ Self-organizing map (SOM): A neural network trained using unsupervised learning 
 
 Sigmoid: Function characterized by a flat gradient on the left and right of it's graph.
 
+Supervised Learning:
+
 Support Vector Machine (SVM):
 
 Tensor:
+
+Tensor processing unit (TPU): 
 
 Tuning:
 

@@ -62,6 +62,10 @@ NN: Neural network.
 
 Notebook: An online workspace where programming languages and libraries are pre-installed and can be run as applications. Originally created for data science, but has grown in popularity. Notebooks offer the advantage of offloading memory and dependency (languages, dependencies, etc.) demands to the web, rather than one's personal computer.
 
+Offline:
+
+Online:
+
 Optimization:
 
 Perceptron: See glossary.md

@@ -38,6 +38,8 @@ Global optimum:
 
 Gradient descent: Describes the rate of learning.
 
+Ground truth: 
+
 Hidden layers:
 
 Hyperparameter:
@@ -81,6 +83,8 @@ RNN: Recurrent neural network.
 Self-organizing map (SOM): A neural network trained using unsupervised learning to create a typically two-dimensional map of the supplied inputs. SOM is particularly effective for data with a large number of dimensions.
 
 Sigmoid: Function characterized by a flat gradient on the left and right of it's graph.
+
+Stochastic:
 
 Supervised Learning:
 

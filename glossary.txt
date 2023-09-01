@@ -1,5 +1,7 @@
 Abstract: Referring to internal primitives of a model that have meaning within a model's context, but are not easily understandable by humans.
 
+Actuators:
+
 Adversarial Machine Learning (AML):
 
 Alignment:

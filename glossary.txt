@@ -32,6 +32,8 @@ Epoch:
 
 Explainability:
 
+Features: Typically the columns in a dataset, each of which contains values for a feature of the data.
+
 Feature space:
 
 Features: Dimensions of data
@@ -84,7 +86,7 @@ Opaque: Referring to deeply nonlinear data.
 
 Optimization:
 
-Pandas:
+Pandas: An open-source data analysis and manipulation library.
 
 Perceptron: See glossary.md
 

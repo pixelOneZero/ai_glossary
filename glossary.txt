@@ -88,6 +88,8 @@ Pandas:
 
 Perceptron: See glossary.md
 
+Regression:
+
 Regularization:
 
 Reinforcement Learning:
@@ -113,5 +115,7 @@ Tensor processing unit (TPU):
 Tuning:
 
 Unsupervised Learning:
+
+Vector:
 
 Weights: 

@@ -90,15 +90,21 @@ Pandas: An open-source data analysis and manipulation library.
 
 Perceptron: See glossary.md
 
+Re-sampling:
+
 Regression:
 
 Regularization:
 
 Reinforcement Learning:
 
+Reinforcement Learning from Human Feedback (RLHF):
+
 RelU: Rectified linear units.
 
 RNN: Recurrent neural network.
+
+Sampling:
 
 Self-organizing map (SOM): A neural network trained using unsupervised learning to create a typically two-dimensional map of the supplied inputs. SOM is particularly effective for data with a large number of dimensions.
 

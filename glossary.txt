@@ -40,6 +40,8 @@ Feature space:
 
 Features: Dimensions of data
 
+Feed-forward connectivity:
+
 Forward function:
 
 Forward propogation:
@@ -93,6 +95,8 @@ Pandas: An open-source data analysis and manipulation library.
 Perceptron: See glossary.md
 
 Re-sampling:
+
+Recurrent connectivity:
 
 Regression:
 

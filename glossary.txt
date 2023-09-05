@@ -18,6 +18,8 @@ Biases:
 
 Binary classification: An algorithm that returns 0 or 1 provided with given input x.
 
+Constitutional AI (CAI): A method of training AI systems using a set of rules or principles. These rules act as a "constitution" for the AI system, allowing it to operate within a socially acceptable framework.
+
 Control theory:
 
 Cost function: Quantifies, for parameters, the average of the sum of loss functions.

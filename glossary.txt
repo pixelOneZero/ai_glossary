@@ -96,6 +96,8 @@ Regression:
 
 Regularization:
 
+Reinforced self-training (ReST): Refer to Gulcehre et al., 2023 — Google
+
 Reinforcement Learning:
 
 Reinforcement Learning from Human Feedback (RLHF):

@@ -36,8 +36,6 @@ Densely connected:
 
 Derivative: The derivative of a function, also referred to as the function's slope, defines the rate of change in the function's output at a given function input.
 
-Embeddings:
-
 Epoch:
 
 Explainability:
@@ -135,6 +133,8 @@ Support Vector Machine (SVM):
 Tensor:
 
 Tensor processing unit (TPU): 
+
+Text embeddings: Numerical representations of text, play a significant role in various tasks involving the identification of similar items, like Google searches, online shopping recommendations, and personalized music suggestions.
 
 Tuning:
 

@@ -36,6 +36,8 @@ Densely connected:
 
 Derivative: The derivative of a function, also referred to as the function's slope, defines the rate of change in the function's output at a given function input.
 
+Embeddings:
+
 Epoch:
 
 Explainability:

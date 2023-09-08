@@ -40,6 +40,7 @@ Epoch:
 
 Explainability:
 
+F1 score: A metric used to evaluate the performance of a binary classification model, which is a type of model that distinguishes between two classes (often labeled as "positive" and "negative").
 Features: Typically the columns in a dataset, each of which contains values for a feature of the data.
 
 Feature space:
@@ -57,6 +58,8 @@ Global optimum:
 Gradient descent: Describes the rate of learning.
 
 Ground truth: 
+
+Harmonic mean: Harmonic mean is a type of average, a measure of central tendency, which is calculated as the reciprocal of the arithmetic mean of the reciprocals of a set of numbers. It is especially useful in situations where the set of values are rates or ratios.
 
 Hidden layers:
 

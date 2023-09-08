@@ -20,7 +20,7 @@ Binary classification: An algorithm that returns 0 or 1 provided with given inpu
 
 Boltzmann Machine:
 
-Chain Model:
+Chain of Models: In machine learning pipelines, "model chaining" or "stacking" refers to a technique where multiple models are linked together in a series, with each model in the chain making predictions that are used as inputs to the next model in the chain. This can sometimes improve performance compared to using a single model.
 
 Clustering:
 

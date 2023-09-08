@@ -105,6 +105,8 @@ Perceptron: See glossary.md
 
 Re-sampling:
 
+Recall: A metric used to evaluate the performance of a classification model, particularly in binary classification problems. Recall is defined as the fraction of the total amount of relevant instances that were actually retrieved. It is also known as sensitivity, hit rate, or true positive rate (TPR).
+
 Recurrent connectivity:
 
 Regression:

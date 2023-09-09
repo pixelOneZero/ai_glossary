@@ -61,7 +61,7 @@ Forward propogation:
 
 Global optimum:
 
-Gradient descent: Describes the rate of learning. 
+Gradient descent: Describes the rate of learning. The derivative, or slope of a function, helps determine the direction needed to minimize the cost function.
 
 Ground truth: 
 

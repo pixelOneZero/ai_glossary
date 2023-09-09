@@ -30,7 +30,7 @@ Constitutional AI (CAI): A method of training AI systems using a set of rules or
 
 Control theory:
 
-Cost function: Quantifies, for parameters, the average of the sum of loss functions.
+Cost function: Quantifies, for parameters, the average of the sum of loss functions. The goal of machine learning is to minimize the cost function so that actual results are as close as possible to predicted results.
 
 CNN: Convolutional neural network.
 
@@ -48,7 +48,7 @@ F1 score: A metric used to evaluate the performance of a binary classification m
 
 Features: Typically the columns in a dataset, each of which contains values for a feature of the data.
 
-Feature extraction: The process of defining qualities of a dataset that determine, in combination with weights, the classification of data instances. Notation: phi of x, ɸ(x)
+Feature extraction: The process of defining qualities of a dataset that determine, in combination with weights, the classification of data instances. Notation: phi x, ɸ(x)
 Feature space:
 
 Features: Dimensions of data

@@ -22,7 +22,9 @@ Boltzmann Machine:
 
 Chain of Models: In machine learning pipelines, "model chaining" or "stacking" refers to a technique where multiple models are linked together in a series, with each model in the chain making predictions that are used as inputs to the next model in the chain. This can sometimes improve performance compared to using a single model.
 
-Clustering:
+Class: 
+
+Clustering: Grouping of data points
 
 Constitutional AI (CAI): A method of training AI systems using a set of rules or principles. These rules act as a "constitution" for the AI system, allowing it to operate within a socially acceptable framework.
 
@@ -135,7 +137,7 @@ Sigmoid: Function characterized by a flat gradient on the left and right of it's
 
 Stochastic:
 
-Supervised Learning:
+Supervised Learning: Learning based on labeled data that typically is implemented as classification or regression tasks.
 
 Support Vector Machine (SVM):
 
@@ -147,7 +149,7 @@ Text embeddings: Numerical representations of text, play a significant role in v
 
 Tuning:
 
-Unsupervised Learning:
+Unsupervised Learning: Learning based on unlabeled data that typcially is implemented as clustering, association and dimension reduction tasks.
 
 Vector:
 

@@ -30,7 +30,7 @@ Constitutional AI (CAI): A method of training AI systems using a set of rules or
 
 Control theory:
 
-Cost function: Quantifies, for parameters, the average of the sum of loss functions. The goal of machine learning is to minimize the cost function so that actual results are as close as possible to predicted results.
+Cost function: Quantifies, for parameters, the average of the sum of loss functions. The goal of machine learning is to minimize the cost function so that actual results are as close as possible to predicted results. A cost function can be defined in absolute terms, or in polynomial terms.
 
 CNN: Convolutional neural network.
 
@@ -61,7 +61,7 @@ Forward propogation:
 
 Global optimum:
 
-Gradient descent: Describes the rate of learning.
+Gradient descent: Describes the rate of learning. 
 
 Ground truth: 
 

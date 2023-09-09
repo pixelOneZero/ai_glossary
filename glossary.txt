@@ -45,8 +45,10 @@ Epoch:
 Explainability:
 
 F1 score: A metric used to evaluate the performance of a binary classification model, which is a type of model that distinguishes between two classes (often labeled as "positive" and "negative").
+
 Features: Typically the columns in a dataset, each of which contains values for a feature of the data.
 
+Feature extraction: The process of defining qualities of a dataset that determine, in combination with weights, the classification of data instances. Notation: phi of x, ɸ(x)
 Feature space:
 
 Features: Dimensions of data
@@ -153,4 +155,4 @@ Unsupervised Learning: Learning based on unlabeled data that typcially is implem
 
 Vector:
 
-Weights: 
+Weights: A numerical value that defines the important of data features

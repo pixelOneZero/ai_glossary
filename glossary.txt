@@ -59,6 +59,8 @@ Forward function:
 
 Forward propogation:
 
+Gaussian:
+
 Global optimum:
 
 Gradient descent: Describes the rate of learning. The derivative, or slope of a function, helps determine the direction needed to minimize the cost function.
@@ -128,6 +130,8 @@ Reinforcement Learning:
 Reinforcement Learning from Human Feedback (RLHF):
 
 RelU: Rectified linear units.
+
+Residual:
 
 RNN: Recurrent neural network.
 

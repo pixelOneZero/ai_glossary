@@ -111,6 +111,8 @@ Pandas: An open-source data analysis and manipulation library.
 
 Perceptron: See glossary.md
 
+Pearson Correlation Coefficient: numerical representation of the linear correlation bewteen two variables, always having a value between -1 and 1, and
+
 Principle component analysis (PCA):
 
 Re-sampling:

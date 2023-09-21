@@ -38,6 +38,8 @@ Densely connected:
 
 Derivative: The derivative of a function, also referred to as the function's slope, defines the rate of change in the function's output at a given function input.
 
+Dimensionality reduction:
+
 Eigen vector:
 
 Epoch:
@@ -144,6 +146,8 @@ Self-organizing map (SOM): A neural network trained using unsupervised learning 
 Sigmoid: Function characterized by a flat gradient on the left and right of it's graph.
 
 Stochastic:
+
+Subspace projection:
 
 Supervised Learning: Learning based on labeled data that typically is implemented as classification or regression tasks.
 

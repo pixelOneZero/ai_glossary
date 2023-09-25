@@ -85,6 +85,8 @@ Invertible: Referring to a non-linear function, the output (y) is difficult or i
 
 Kernel: A function that computes the dot product of the transformed versions of its arguments. A kernel transforms the data into a higher-dimensional space where it becomes linearly separable or, more generally, where the transformed data has a structure that is more receptive to learning.
 
+KNN Classifier:
+
 LSTM: Long short-term memory.
 
 Logistic regression: An algorithm for binary classification.
@@ -92,6 +94,10 @@ Logistic regression: An algorithm for binary classification.
 Loss function: Quantifies, for a single training example, the difference between the estimate and actual result.
 
 m: The size of the training data set
+
+Minimum Distance Classifier:
+
+MLP: 
 
 Model:
 

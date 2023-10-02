@@ -161,7 +161,7 @@ Sampling:
 
 Self-organizing map (SOM): A neural network trained using unsupervised learning to create a typically two-dimensional map of the supplied inputs. SOM is particularly effective for data with a large number of dimensions.
 
-Sigmoid: Function characterized by a flat gradient on the left and right of it's graph.
+Sigmoid: Function characterized by a flat gradient on the left and right of it's graph, effectively mapping an x input to a value between 0 and 1. Define as a function: y = 1 / 1 + e^-x
 
 Stochastic:
 

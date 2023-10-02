@@ -75,6 +75,8 @@ Harmonic mean: Harmonic mean is a type of average, a measure of central tendency
 
 Hidden layers:
 
+Hold-out data: Test data (as opposed to training data)
+
 Hyperparameter:
 
 Hypothesis:

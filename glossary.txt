@@ -1,6 +1,6 @@
 Abstract: Referring to internal primitives of a model that have meaning within a model's context, but are not easily understandable by humans.
 
-Accuracy: 
+Accuracy: The sum of true positive and true negative, divided by total sample size
 
 Actuators:
 
@@ -131,13 +131,13 @@ Perceptron: See glossary.md
 
 Pearson Correlation Coefficient: numerical representation of the linear correlation bewteen two variables, always having a value between -1 and 1, and
 
-Precision
+Precision: Ratio of true positive to false positive in classification results.
 
 Principle component analysis (PCA):
 
 Re-sampling:
 
-Recall: A metric used to evaluate the performance of a classification model, particularly in binary classification problems. Recall is defined as the fraction of the total amount of relevant instances that were actually retrieved. It is also known as sensitivity, hit rate, or true positive rate (TPR).
+Recall: A metric used to evaluate the performance of a classification model, particularly in binary classification problems. Recall is defined as the fraction of the total amount of relevant instances that were actually classified as true correctly. It is also known as sensitivity, hit rate, or true positive rate (TPR).
 
 Recurrent connectivity:
 

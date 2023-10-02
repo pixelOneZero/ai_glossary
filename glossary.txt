@@ -1,5 +1,7 @@
 Abstract: Referring to internal primitives of a model that have meaning within a model's context, but are not easily understandable by humans.
 
+Accuracy: 
+
 Actuators:
 
 Adversarial Machine Learning (AML):
@@ -128,6 +130,8 @@ Pandas: An open-source data analysis and manipulation library.
 Perceptron: See glossary.md
 
 Pearson Correlation Coefficient: numerical representation of the linear correlation bewteen two variables, always having a value between -1 and 1, and
+
+Precision
 
 Principle component analysis (PCA):
 

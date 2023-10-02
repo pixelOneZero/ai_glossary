@@ -50,7 +50,7 @@ Epoch:
 
 Explainability:
 
-F1 score: A metric used to evaluate the performance of a binary classification model, which is a type of model that distinguishes between two classes (often labeled as "positive" and "negative").
+F1 score: A metric used to evaluate the performance of a binary classification model, which is a type of model that distinguishes between two classes (often labeled as "positive" and "negative"). Defined as a formula: Precision * Recall / Precision + Recall
 
 Features: Typically the columns in a dataset, each of which contains values for a feature of the data.
 

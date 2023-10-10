@@ -16,6 +16,8 @@ Backward function:
 
 Backward propogation:
 
+Balance: Refers to how similar comparable classes are in terms of size, measured in number of samples per class.
+
 Biases:
 
 Binary classification: An algorithm that returns 0 or 1 provided with given input x.

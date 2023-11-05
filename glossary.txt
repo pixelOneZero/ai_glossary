@@ -141,6 +141,8 @@ Pearson Correlation Coefficient: numerical representation of the linear correlat
 
 Precision: Ratio of true positive to false positive in classification results.
 
+Pretrained model:
+
 Principle component analysis (PCA):
 
 Re-sampling:

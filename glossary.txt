@@ -145,6 +145,8 @@ Pretrained model:
 
 Principle component analysis (PCA):
 
+Retreival Augmented Generation (RAG): adding a vector database to enrich a language model in order to inform
+
 Re-sampling:
 
 Recall: A metric used to evaluate the performance of a classification model, particularly in binary classification problems. Recall is defined as the fraction of the total amount of relevant instances that were actually classified as true correctly. It is also known as sensitivity, hit rate, or true positive rate (TPR).
@@ -182,6 +184,8 @@ Subspace projection:
 Supervised Learning: Learning based on labeled data that typically is implemented as classification or regression tasks.
 
 Support Vector Machine (SVM):
+
+Temperature:
 
 Tensor:
 

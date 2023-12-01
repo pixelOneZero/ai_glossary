@@ -46,6 +46,8 @@ Dimensionality reduction:
 
 Eigen vector:
 
+Emergent abilities:
+
 Empirical risk:
 
 Encoding: The process of converting a label from one type of value into another type of value, because it makes mathematical analysis possible. For example, a field named 'flower_type' may be labeled with one of three species names: 'Species 1', 'Species 2', 'Species 3'. These species names, when encoded into numerical values, like 0, 1, 2, will allow a cost function to make multi-class logistical regression possible.

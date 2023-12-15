@@ -129,6 +129,8 @@ Objective function:
 
 Offline:
 
+One-shot:
+
 Online:
 
 Opaque: Referring to deeply nonlinear data.

@@ -187,7 +187,7 @@ Subspace projection:
 
 Supervised Learning: Learning based on labeled data that typically is implemented as classification or regression tasks.
 
-Support Vector Machine (SVM):
+Support Vector Machine (SVM): A technique for separating data by finding an optimal dividing line between classes.
 
 Temperature:
 
